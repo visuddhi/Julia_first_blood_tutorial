@@ -1,4 +1,4 @@
-# 单独保存一个.jl文件（头文件），和刚才的notebook放在同一路纪念馆下
+# 单独保存一个.jl文件（头文件），和刚才的notebook放在同一路径下
 module FancyStructs
   struct Coordinate{T}
     x::T
